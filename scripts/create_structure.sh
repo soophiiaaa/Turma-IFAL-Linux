@@ -3,15 +3,25 @@
 # Criar grupo
 
 sudo groupadd ds-terceiro-ano
-gpasswd senhagrupo
+sudo addgroup ds-terceiro-ano
+sudo adduser --group ds-terceiro-ano
+sudo gpasswd senhagrupo
 
 # Adicionar usuários (certifique-se de que os usuários existam)
 
-sudo gpasswd -a aluno1
-sudo gpasswd -a aluno2
-sudo gpasswd -a aluno3
+sudo gpasswd -a sophia
+sudo gpasswd -a pedro
+sudo gpasswd -a esther
+sudo gpasswd -a lauren
+sudo gpasswd -a yasmim
+sudo gpasswd -a manuela
 
-# Adicionar administradores do grupo
+# Adicionar administrador(es) do grupo
 
-sudo gpasswd -A representante
-sudo gpasswd -A vice-representante
+sudo gpasswd -A mikael
+sudo gpasswd -A manuela
+
+# Adicionar usuário(s) como membro(s) e administrador(es) do grupo
+
+sudo gpasswd -M mikael
+sudo gpasswd -M manuela
