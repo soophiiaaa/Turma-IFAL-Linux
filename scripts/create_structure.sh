@@ -32,3 +32,15 @@ sudo mkdir 913A_docs
 sudo mkdir 913A_classes
 sudo touch 913A_students
 sudo touch 913_teachers
+
+# Remover e adicionar permissões de forma simbólica e octal
+
+sudo chmod g-w 913A_students
+sudo chmod g-w 913A_teachers
+sudo chmod o+r 913A_docs
+sudo chmod o+r 913A_classes
+sudo chmod 1755 913A_docs
+
+# Definir proprietário e grupo do(s) diretório(s) e arquivo(s)
+
+sudo chown mikael:ds-terceiro-ano 913A
