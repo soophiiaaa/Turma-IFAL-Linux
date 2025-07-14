@@ -15,6 +15,7 @@ sudo gpasswd -a esther ds-terceiro-ano
 sudo gpasswd -a lauren ds-terceiro-ano
 sudo gpasswd -a yasmim ds-terceiro-ano
 sudo gpasswd -a manuela ds-terceiro-ano
+sudo gpasswd -a mikael ds-terceiro-ano
 
 # Adicionar administrador(es) do grupo
 
