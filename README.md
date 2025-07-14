@@ -1,6 +1,6 @@
 # Turma IFAL - Linux 🐧
 
-Este é um repositório simples criado para **praticar o gerenciamento de usuários no Linux**. A ideia foi inspirada em um cenário do cotidiano para testar comandos básicos e reforçar o aprendizado.
+Este é um repositório simples criado para **praticar o gerenciamento de usuários no Linux**. A ideia foi inspirada em um cenário do cotidiano para testar comandos básicos. Bons estudos para você também! 
 
 ## 💻 Objetivo
 
@@ -9,7 +9,7 @@ Praticar os seguintes tópicos:
 - Modificação de usuários (`usermod`)
 - Gerenciamento de grupos
 - Permissões básicas
-- Comandos como `passwd`, `deluser`, `id`, entre outros
+- Comandos como `passwd`, `deluser`, entre outros
 
 ## 🚀 Como rodar na sua máquina
 
@@ -25,9 +25,9 @@ git clone https://github.com/soophiiaaa/Turma-IFAL-Linux.git
 cd Turma-IFAL-Linux
 ```
 
-3. Leia os arquivos `.sh` e execute os comandos descritos em um ambiente Linux (pode ser uma VM, WSL ou dual boot).
+3. Leia os arquivos `.sh` e execute os comandos descritos em um ambiente Linux (pode ser uma VM, por exemplo).
 
-> ⚠️ Recomenda-se executar em um ambiente de testes com permissões de superusuário (`sudo`), pois envolve mudanças de usuários no sistema.
+> ⚠️ É recomendado executar em um ambiente de testes com permissões de superusuário (`sudo`), pois envolve mudanças de usuários no sistema.
 
 ---
 
