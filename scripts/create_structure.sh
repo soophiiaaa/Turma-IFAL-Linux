@@ -1,5 +1,14 @@
 #! bin/bash
 
+# Criar diretórios e arquivos
+
+sudo mkdir 913A
+cd 913A
+sudo mkdir 913A_docs
+sudo mkdir 913A_classes
+sudo touch 913A_students
+sudo touch 913_teachers
+
 # Criar grupo
 
 sudo groupadd ds-terceiro-ano

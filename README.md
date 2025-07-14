@@ -4,7 +4,6 @@ Este é um repositório super simples criado apenas para praticar o **gerenciame
 
 Pensei em criar minha turma real para fazer os testes, mas você pode fazer de acordo com as suas circunstâncias. Também não foram adicionados comandos tão avançados pois a proposta é justamente entender como funcionam os usuários, o que acontecem quando são criados e suas permissões. 
 
-
 ## Como rodar na sua máquina
 
 Clone este repositório:
