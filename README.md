@@ -1,10 +1,10 @@
 # Turma IFAL - Linux 🐧
 
-Este é um repositório simples criado para **praticar o gerenciamento de usuários no Linux**. A ideia foi inspirada em um cenário do cotidiano para testar comandos básicos. Bons estudos para você também! 
+Este é um repositório simples criado para **praticar o gerenciamento de usuários no Linux**. A ideia foi inspirada em um cenário do cotidiano para testar comandos básicos, os exemplos podem ser adaptados de acordo com as suas circunstâncias. Bons estudos para você também! 
 
 ## 💻 Objetivo
 
-## Como rodar na sua máquina
+## 🚀 Como rodar na sua máquina
 
 1. Clone este repositório:
 
